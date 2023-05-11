@@ -157,4 +157,7 @@ Execute the program
 ```
 # OUPUT
 ![timetable](https://github.com/ASHWINKUMAR2903/timetable/assets/119407186/bdd1aace-d106-4593-917c-ae02281dde83)
+![html validator](https://github.com/ASHWINKUMAR2903/timetable/assets/119407186/796b8ae8-78e2-46f8-a36b-ec120aedce05)
 
+# RESULT:
+The program for creating slot time table is completed successfully
